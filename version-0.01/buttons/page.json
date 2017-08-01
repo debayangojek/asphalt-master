@@ -39,10 +39,14 @@
     {
       "class": "symbolInstance",
       "id": "4F2693DF-479E-47DE-A4B3-FBF3A413F630"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C69F46CB-E03E-40D8-92E4-A5DA071A1366"
     }
   ],
-  "name": "Page 1",
-  "nameIsFixed": false,
+  "name": "buttons",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
