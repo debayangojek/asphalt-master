@@ -37,8 +37,8 @@
       "id": "3A179F24-36C4-4AE7-BC4A-7E61F6977051"
     }
   ],
-  "name": "Page 1",
-  "nameIsFixed": false,
+  "name": "buttons",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
