@@ -49,8 +49,8 @@
       "id": "55F42862-41AB-49BF-8960-A2E4F89F1941"
     }
   ],
-  "name": "Symbols",
-  "nameIsFixed": false,
+  "name": "symbols",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
